@@ -1,2 +1,2 @@
 # Text-Classification
-Text Classification using Naive base Classifier
+Text Classification using Naive-Bayes Classifier
